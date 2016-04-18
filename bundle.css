@@ -247,7 +247,8 @@ body {
     1.45em
     -0.35em
     0;
-  padding: 0.35em 1.45em;
+  padding: 0.35em
+    1.45em;
   color: #3e51b5;
   font-size: 1em;
   background: #fff;
@@ -281,7 +282,7 @@ body {
 
 @media (max-width: 858px) {
   .beta-bar {
-    line-height: calc(;
+    line-height: 1.54em;
   }
 }
 
